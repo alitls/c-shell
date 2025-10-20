@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/posix_shell.dir/main.c.o  -o posix_shell 
