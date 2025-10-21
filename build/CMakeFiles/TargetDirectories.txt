@@ -1,3 +1,0 @@
-/home/alireza/Code/C/posix_shell/build/CMakeFiles/posix_shell.dir
-/home/alireza/Code/C/posix_shell/build/CMakeFiles/edit_cache.dir
-/home/alireza/Code/C/posix_shell/build/CMakeFiles/rebuild_cache.dir
